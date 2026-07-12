@@ -1,6 +1,7 @@
 # 📊 Supply Chain Analytics Dashboard
 ## Dashboard Preview
 ![Executive Dashboard](https://github.com/ISSAH3/supply-chain-analytics-dashboard/blob/main/Executive%20Dashboard.png?raw=true)
+![MarketAnalysis](https://github.com/ISSAH3/supply-chain-analytics-dashboard/blob/main/Market%20Analysis.png?raw=true)
 
 ## 📌 Project Overview
 
