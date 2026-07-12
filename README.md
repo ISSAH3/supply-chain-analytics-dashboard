@@ -1,5 +1,6 @@
 # 📊 Supply Chain Analytics Dashboard
 ## Dashboard Preview
+https://github.com/ISSAH3/supply-chain-analytics-dashboard/blob/main/Executive%20Dashboard.png
 
 ## 📌 Project Overview
 
