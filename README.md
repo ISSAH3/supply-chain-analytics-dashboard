@@ -1,5 +1,9 @@
 # 📊 Supply Chain Analytics Dashboard
+## Dashboard Preview
 
+![Executive Dashboard](Screenshots/02_Executive_Dashboard.png)
+
+![Market Analysis](Screenshots/03_Market_Analysis.png)
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end Business Intelligence solution built using **SQL, MySQL, and Power BI**. The goal was to transform raw supply chain transaction data into meaningful business insights through SQL analysis and interactive dashboards.
